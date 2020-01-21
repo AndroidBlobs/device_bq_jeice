@@ -1,0 +1,4 @@
+require version-baseband=3.0-00489-8937_GENNS_PACK-1
+require version-modem=2020-01-1014:01:06
+require version-trustzone=TZ.BF.4.0.5-00176
+require version-vendor=1578658990
